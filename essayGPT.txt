@@ -1,3 +1,5 @@
 chatPGT
 
 chatPGT is a very powerful tool
+
+chatPGT is powerful but is not a tool
